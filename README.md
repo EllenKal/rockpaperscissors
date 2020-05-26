@@ -1,0 +1,1 @@
+This project is to represent my ability to get a game of Rock, Paper, Scissors going between a player and a computer. 
